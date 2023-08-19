@@ -1,0 +1,6 @@
+.infinite-scroll-component {
+    overflow: hidden !important;
+  }
+  :root{
+    --body_background: white
+  }
